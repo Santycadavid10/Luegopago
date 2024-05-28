@@ -1,0 +1,6 @@
+@Cuponera_HostAddress = http://localhost:5231
+
+GET {{Cuponera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
